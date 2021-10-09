@@ -1,4 +1,4 @@
-# CURSO GRATUITO DE Mapas Temáticos no QGIS
+# CURSO GRATUITO de Mapas Temáticos no QGIS
 
 Aprenda a Criar Mapas Temáticos Profissionais no QGIS do Zero com informações de Estatísticas do IBGE, de forma RÁPIDA e OBJETIVA.
 
