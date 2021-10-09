@@ -1,2 +1,2 @@
-# mapas-tematicos-qgis
+# Mapas Temáticos no QGIS
 Modelos de Mapas Temáticos utilizando o QGIS
